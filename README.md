@@ -1,5 +1,4 @@
-### Hi there, I'm Minh Le 👋
-
+### Hi there, I'm Minh :satisfied:
 <!--
 **khacminhle/khacminhle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
