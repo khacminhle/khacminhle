@@ -1,4 +1,6 @@
-### Hi there, I'm Minh :satisfied:
+### What's up my guy, I'm Minh :satisfied:
+
+I'm a mechanical engineering student at University of Technology Sydney 
 <!--
 **khacminhle/khacminhle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
