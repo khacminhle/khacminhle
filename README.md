@@ -4,7 +4,7 @@ I'm a mechanical engineering student at University of Technology Sydney.
 
 I am passionate about technology and data analytics. My favourite language is Python but also proficient in HTML, CSS, Javascript. 
 
-Recently, I built a blog application using Flask framework, the front=end was built using Jinja templating and database is PostGreSQL. 
+Recently, I built a blog application using Flask framework, the front-end was built using Jinja templating and database is PostGreSQL. 
 
 Currently, I'm working data science projects learning how to wrangle data, perform exploratory analysis, build statistical models and use scikit to run regression for predictive analytics. 
 
